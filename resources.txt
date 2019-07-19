@@ -1,0 +1,4 @@
+https://appsilon.com/object-detection-yolo-algorithm/
+https://github.com/pjreddie/darknet/issues/517
+https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad
+
